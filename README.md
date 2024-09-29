@@ -61,3 +61,9 @@ The dataset I have collected contains three files:
 - Larger and more populous states tend to spend more on advertisements; however, this does not necessarily result in increased voter participation.
 - Political parties, especially the BJP, invest heavily in advertising, but the effectiveness of this spending in driving voter turnout remains questionable.
 - Voter engagement is influenced by various other factors beyond ad spend, suggesting the need for a multifaceted approach to understanding electoral participation.
+
+### 🚀 About Me
+#### Hi, I'm Amay Jaiswal! 👋
+I am a Data Analytics Enthusiast and  Data science practitioner
+
+[Linkedin](https://www.linkedin.com/in/heyamay/)
